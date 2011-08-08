@@ -1,0 +1,26 @@
+﻿.pic_popup{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 15px;
+	margin-left: 10px;
+}
+.pic{
+	margin-bottom: 10px;
+}
+.text{
+	font-size: 10px;
+	color: #666666;
+	text-decoration: none;
+}
+.title{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000;
+	font-weight: bold;
+	margin-bottom: 10px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #999999;
+	height: 20px;
+}
