@@ -1,0 +1,15 @@
+.H5{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666;
+}
+.table{margin:15px;}
+.tablelft{
+	border-left: 1px solid #EBEBEB;
+	border-top: 1px solid #EBEBEB;
+	border-bottom: 1px solid #EBEBEB;
+	text-align: center;
+}
+.tablergt{border: 1px solid #EBEBEB;text-align: center;}
+
+
